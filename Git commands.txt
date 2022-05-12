@@ -1,0 +1,9 @@
+ls
+cd
+git init:initialize git
+git remote add origin repository link
+git remote -v
+git add .(. for  adding all files present in directory)
+git commit -m "anyy name say my first commit"(for commit)
+git push origin master
+git help
