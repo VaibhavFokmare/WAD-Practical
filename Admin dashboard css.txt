@@ -1,0 +1,138 @@
+*{
+    margin:0px;
+    padding:0px;
+   
+}
+#topheader{
+
+    border-bottom:1px solid silver;
+}
+#topheader a{
+    text-decoration: none;
+    color:#2c3e50;
+    font-weight: 600;
+    font-size:0.89rem;
+    display:inline-block;
+    
+
+}
+
+#topheader  nav ul li a:hover{
+text-decoration:underline;
+
+   
+    
+
+}
+#topheader nav ul li a{
+    font-size:600px;
+    font-weight:0.95rem;
+
+}
+#bottomheader nav ul li{
+    font-size:15px;
+    padding:4px;
+    
+    
+}
+.about-company{
+    background-color:rgb(181, 181, 196)
+}
+.team{
+    background-color:rgb(181, 181, 196)
+}
+.team h4{
+    padding-top: 3px;
+}
+/*Start  top footer*/
+.full-footer{
+    background-color: #34495e;
+    
+}
+
+.full-footer a{
+  text-decoration:none;
+}
+.full-footer a:hover{
+    text-decoration:underline;
+  }
+.topfooter h1{
+    color:white;
+    
+}
+.topfooter p{
+    color:white;
+    
+}
+.topfooter  h3{
+    color:white;
+    
+    
+}
+.topfooter  a{
+    color:white;
+    font-weight:600;
+    
+}
+/*End Top footer*/
+/*Start bottom footer*/
+.bottom-footer{
+    background-color: #031b2e;
+}
+.bottom-footer p{
+    color:white;
+}
+/*End bottom footer*/
+
+/*Start Top-hero section*/
+.tophero{
+    background-color:#3d82af;
+    color:white;
+}
+.tophero a{
+    
+    color:white;
+    text-decoration:none;
+}
+.tophero a:hover{
+    text-decoration:underline;
+}
+
+/*End Top-hero section*/
+.requirement-section{
+    background-color: rgb(33, 99, 126);
+    color:white;
+    text-align:center;
+}
+.search-bar-section{
+    background-color: rgb(33, 99, 126);
+    color:white;
+    text-align:center;
+}
+
+
+/*End of home page*/
+
+
+/*Strat of About us page*/
+.breadcrumbs-section{
+    background-color:#f5f5f5;
+}
+.breadcrumbs-section ol a{
+    text-decoration:none;
+}
+.breadcrumbs-section ol a:hover{
+    text-decoration:underline;
+}
+
+
+
+/*End of About us page*/
+
+
+
+
+
+
+
+
